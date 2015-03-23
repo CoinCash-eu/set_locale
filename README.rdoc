@@ -1,3 +1,0 @@
-= SetLocale
-
-This is a work in progress. Features are tested within the main Rails application that makes use of this gem.
