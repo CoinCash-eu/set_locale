@@ -2,7 +2,7 @@ module SetLocale
   module ControllerHelpers
 
     def self.included(controller)
-      controller.before_action :set_locale
+      controller.prepend_before_action :set_locale
     end
 
     def set_locale
