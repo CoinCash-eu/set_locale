@@ -7,7 +7,7 @@ require "set_locale/version"
 Gem::Specification.new do |s|
   s.name        = "set_locale"
   s.version     = SetLocale::VERSION
-  s.authors     = ["Attila Györffy"]
+  s.authors     = ["Attila Gyorffy"]
   s.email       = ["attila@attilagyorffy.com"]
   s.homepage    = "http://github.com/liquid/set_locale"
   s.summary     = "Allows setting I18n.locale in Rails applications based on a variety of strategies."
